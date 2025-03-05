@@ -1,6 +1,6 @@
 # Archit Garg
 
-📞 +91 9759032501  |  📧 architgarg9890@gmail.com  |  🌐 [LinkedIn](https://www.linkedin.com/in/archit-garg-179b47233)
+📞 +91 9759032501  |  📧 architgarg9890@gmail.com  |  🌐 [LinkedIn](https://www.linkedin.com/in/archit-garg-179b47233)  |  💻 [GitHub](https://github.com/Arch1123)
 
 ---
 
@@ -77,5 +77,5 @@ Feb 2024 – May 2024
 ---
 
 **Let’s Connect!**
-📧 architgarg9890@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/archit-garg-179b47233)
+📧 architgarg9890@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/archit-garg-179b47233) | 💻 [GitHub](https://github.com/Arch1123)
 
