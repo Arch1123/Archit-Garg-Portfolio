@@ -49,7 +49,7 @@ Feb 2024 – May 2024
 
 ## **Projects**
 
-### **Valuation Growth Model (Feb 2024)**
+### **[Valuation Growth Model](https://github.com/Arch1123/Valuation-Growth-Model) (Feb 2024)**
 - Estimated project financial performance based on market conditions, revenue assumptions, and cost structures.
 - Evaluated the impact of risk factors on valuation and developed mitigation strategies.
 
