@@ -53,9 +53,9 @@ Feb 2024 – May 2024
 - Estimated project financial performance based on market conditions, revenue assumptions, and cost structures.
 - Evaluated the impact of risk factors on valuation and developed mitigation strategies.
 
-### **Tata Motors Share Price Prediction | SAS, Regression (July 2023)**
-- Built regression models to predict share price movements based on market demand, pricing, and operational costs.
-- Provided insights to enhance investment decisions and mitigate financial risks.
+### **[Share Price Prediction for TCS using Regression](https://github.com/Arch1123/Share-Price-Prediction-for-TCS-using-Regression) (July 2023)**
+- Developed regression models to predict TCS share price movements using historical data, financial indicators, and market trends.
+- Implemented data-driven strategies to enhance investment decisions and forecast stock price fluctuations effectively.
 
 ---
 
