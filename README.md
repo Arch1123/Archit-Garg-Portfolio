@@ -5,8 +5,11 @@ This portfolio showcases my expertise in finance, analytics, and data-driven dec
 
 🚀 Key Highlights:
 ✅ Financial Analyst at Bharti AXA Life Insurance
+
 ✅ Stock Market Research & Trading Strategies
+
 ✅ Power BI & Excel Dashboards
+
 ✅ Regression & Time Series Analysis
 
 📩 Let’s connect! architgarg9890@gmail.com | LinkedIn
